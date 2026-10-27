@@ -14,6 +14,7 @@ public class StudentInformationSystem {
         double mark2 = 45.0;
         double totalMark = mark1 + mark2;
         
+        System.out.println("Student Information System");
         System.out.println("Name: "+ studentName);
         System.out.println("Student ID: "+ studentId);
         System.out.println("Mark 1: " + mark1);
